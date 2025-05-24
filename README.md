@@ -15,7 +15,7 @@ A modern, responsive ReactJS-based landing page for the PopX platform. This proj
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/muskanagarwal3110/PopX.git
+git clone https://github.com/Nityanand17/educase-project.git
 cd PopX
 ```
 ### 2. Install dependencies
